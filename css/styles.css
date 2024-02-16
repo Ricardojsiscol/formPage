@@ -11,7 +11,7 @@ body{
 }
 
 .img{
-	background-image: url('/img/nordic.webp');
+	background-image: url('../img/nordic.webp');
 	background-repeat: no-repeat;
 	flex-grow: 1;
 	min-width: 300px;
