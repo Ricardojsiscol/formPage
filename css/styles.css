@@ -11,7 +11,7 @@ body{
 }
 
 .img{
-	background-image: url('/img/DALL·E\ 2024-02-16\ 18.34.06\ -\ A\ serene\ and\ majestic\ Nordic\ landscape\,\ featuring\ snow-capped\ mountains\,\ a\ tranquil\ fjord\,\ and\ a\ clear\ sky\,\ captured\ during\ the\ golden\ hour.\ This\ imag.webp');
+	background-image: url('/img/nordic.webp');
 	background-repeat: no-repeat;
 	flex-grow: 1;
 	min-width: 300px;
